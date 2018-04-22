@@ -24,5 +24,6 @@ public class CryptoCurrencyConversionController {
 		}
 		return new CryptoCurrencyConvertionBean(response.getId(), name, convertTo, response.getPrice_btc(),
 				response.getPrice_usd(), quantity, totalValue, response.getPort(), response.getSymbol());
+
 	}
 }
