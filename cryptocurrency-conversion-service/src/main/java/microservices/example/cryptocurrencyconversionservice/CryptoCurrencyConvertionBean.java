@@ -113,7 +113,6 @@ public class CryptoCurrencyConvertionBean {
 				+ ", getPrice_usd()=" + getPrice_usd() + ", getQuantity()=" + getQuantity() + ", getCalculatedAmount()="
 				+ getCalculatedAmount() + ", getPort()=" + getPort() + ", getSymbol()=" + getSymbol() + ", getClass()="
 				+ getClass() + ", hashCode()=" + hashCode() + ", toString()=" + super.toString() + "]";
-
 	}
 
 }
